@@ -6,7 +6,6 @@ class Solution {
 		Solution sol = new Solution();
 		
 		String s = "{[()()]}";
-		//{10, 50, 5, 1};
 
 		System.out.println(sol.solution(s));
 	}
